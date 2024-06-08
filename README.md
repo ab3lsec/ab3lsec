@@ -67,8 +67,8 @@ I build and write about whatever I learn, tech and non-tech.
 
 #### I am currently learning:
 <div align='center'>
-  <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Python%20for%20Hackers&style=for-the-badge&logo=python&logoColor=white&color=F05032' />
+  <a href='https://www.amazon.in/Black-Hat-Python-2nd-Programming/dp/1718501129' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Black%20hat%20Python&style=for-the-badge&logo=python&logoColor=white&color=F05032' />
   </a>
 </div>
 
