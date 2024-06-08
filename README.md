@@ -3,10 +3,9 @@ Glad to meet you ! </h2>
 
 
 ### whoami
-Hello, this is Abel V. here. I’m a security researcher/enthusiast and I go by the handle @thebinarybot in most of the places online.
+Hello, this is Abel V. here. I’m a security researcher/enthusiast and I go by the handle @ab3lsec in most of the places online.
 I build and write about whatever I learn, tech and non-tech.
 
-Checkout my digital resume: https://linktr.ee/thebinarybot
 
 <hr>
 
@@ -93,13 +92,13 @@ Checkout my digital resume: https://linktr.ee/thebinarybot
 
 #### Want to connect with me? 
 <div align='center'>
-  <a href='https://linkedin.com/nithinravi10' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://linkedin.com/ab3lsec' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Nithin&color=blue&style=for-the-badge&logo=linkedin' />
   </a>
-  <a href='https://twitter.com/thebinarybot' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://twitter.com/ab3lsec' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Twitter&message=thebinarybot&color=blue&style=for-the-badge&logo=twitter' />
   </a>
-  <a href='https://discordapp.com/thebinarybot#3541' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://discordapp.com/ab3l#0968' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Discord&message=thebinarybot&color=blue&style=for-the-badge&logo=discord' />
   </a>
 </div>
