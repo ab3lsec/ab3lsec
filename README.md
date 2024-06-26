@@ -3,8 +3,7 @@ Glad to meet you ! </h2>
 
 
 ### whoami
-Hello, this is Abel V. here. I’m a Cybersecurity enthusiast and I go by the handle @ab3lsec in most of the places online.
-I build and write about whatever I learn, tech and non-tech.
+Hello, this is Abel V. here. I am a BCA graduate with a deep passion for cybersecurity and ethical hacking. I aspire to build a career in this exciting field and actively participate in bug bounty programs. You can find me online under the handle @ab3lsec.
 
 <hr>
 
