@@ -96,7 +96,7 @@ Hello, this is Abel V. here. I am a BCA graduate with a deep passion for cyberse
   <a href='https://x.com/ab3lsec/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Twitter&message=ab3lsec&color=blue&style=for-the-badge&logo=x&logoColor=white' />
   </a>
-  <a href='https://discordapp.com/ab3lsec' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://discordapp.com/users/865664738717335595' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Discord&message=ab3lsec&color=blue&style=for-the-badge&logo=discord&logoColor=white' />
   </a>
 </div>
