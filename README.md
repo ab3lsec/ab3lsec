@@ -93,6 +93,9 @@ Hello, this is Abel V. here. I am a BCA graduate with a deep passion for cyberse
   <a href='https://www.linkedin.com/in/ab3lsec/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Abel V&color=blue&style=for-the-badge&logo=linkedin' />
   </a>
+   <a href='https://www.linkedin.com/in/ab3lsec/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Abel V&color=blue&style=for-the-badge&logo=linkedin' />
+  </a>
   <a href='https://x.com/ab3lsec/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Twitter&message=ab3lsec&color=blue&style=for-the-badge&logo=x&logoColor=white' />
   </a>
