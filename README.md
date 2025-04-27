@@ -91,7 +91,7 @@ Hello, this is Abel V. here. I am a BCA graduate with a deep passion for cyberse
 #### Want to connect with me? 
 <div align='center'>
     <a href='https://www.linkedin.com/in/ab3lsec' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Abel&color=blue&style=for-the-badge&logo=linkedin' />
+    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Abel&#20wer&color=blue&style=for-the-badge&logo=linkedin' />
   </a>
   <a href='https://twitter.com/thebinarybot' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=Twitter&message=thebinarybot&color=blue&style=for-the-badge&logo=twitter' />
