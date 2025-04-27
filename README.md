@@ -90,7 +90,7 @@ Hello, this is Abel V. here. I am a BCA graduate with a deep passion for cyberse
 
 #### Want to connect with me? 
 <div align='center'>
-    <a href='www.linkedin.com/in/ab3lsec' target='_blank' rel='noopener' rel='noreferrer'>
+    <a href='https://www.linkedin.com/in/ab3lsec' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Nithin&color=blue&style=for-the-badge&logo=linkedin' />
   </a>
   <a href='https://twitter.com/thebinarybot' target='_blank' rel='noopener' rel='noreferrer'>
