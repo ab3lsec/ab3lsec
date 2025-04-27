@@ -93,10 +93,10 @@ Hello, this is Abel V. here. I am a BCA graduate with a deep passion for cyberse
     <a href='https://www.linkedin.com/in/ab3lsec' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=LinkedIn&message=Abel&color=blue&style=for-the-badge&logo=linkedin' />
   </a>
-  <a href='https://twitter.com/thebinarybot' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Twitter&message=thebinarybot&color=blue&style=for-the-badge&logo=twitter' />
+  <a href='https://twitter.com/ab3lsec' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=Twitter&message=ab3lsec&color=blue&style=for-the-badge&logo=twitter' />
   </a>
-  <a href='https://discordapp.com/thebinarybot#3541' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Discord&message=thebinarybot&color=blue&style=for-the-badge&logo=discord' />
+  <a href='https://discordapp.com/ab3l#0968' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=Discord&message=ab3lsec&color=blue&style=for-the-badge&logo=discord' />
   </a>
 </div>
